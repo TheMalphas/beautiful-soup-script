@@ -1,0 +1,46 @@
+{'anno': '1° Anno'}
+{'anno': '2° Anno'}
+{'anno': '3° Anno'}
+{'tipologia': 'Obbligatori'}
+{'tipologia': 'SIMB - A SCELTA 1° ANNO (6 CFU)'}
+{'tipologia': 'Obbligatori'}
+{'tipologia': 'Obbligatori'}
+{'tipologia': 'SIMB - A SCELTA 3° ANNO (12 CFU)'}
+{'info': '[ECON009] ECONOMIA AZIENDALE Anno di offerta 2022/20239 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON008] LINGUA INGLESE Anno di offerta 2022/20235 CFU30 oreCiclo Annuale Unico'}
+{'info': '[ECON014] METODI MATEMATICI Anno di offerta 2022/20236 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON003] MICROECONOMIA Anno di offerta 2022/20239 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON002] STATISTICA Anno di offerta 2022/20239 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON004] STORIA ECONOMICA Anno di offerta 2022/20239 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON066] BUSINESS PLAN ED ECONOMIA DELLE IMPRESE DI START-UP Anno di offerta 2022/20236 CFU36 oreCiclo Annuale Unico'}
+{'info': "[ECON044] DALLA SOCIETA' DI MASSA AL CAPITALE SOCIALE Anno di offerta 2022/20236 CFU36 oreCiclo Annuale Unico"}
+{'info': '[ECON081] NEUROMANAGEMENT Anno di offerta 2022/20236 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON059] DIRITTO COMMERCIALE (A) Anno di offerta 2023/20249 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON063] ECONOMIA DEGLI INTERMEDIARI FINANZIARI (B) Anno di offerta 2023/20249 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON076] FINANZA AZIENDALE (B) Anno di offerta 2023/20249 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON006] MACROECONOMIA Anno di offerta 2023/20249 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON029] MATEMATICA FINANZIARIA Anno di offerta 2023/20246 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON069] GLI ISTITUTI GIURIDICI DELLA START-UP Anno di offerta 2023/20249 CFU54 oreCiclo Annuale Unico'}
+{'info': "[ECON060] RAGIONERIA E CONTABILITA' AZIENDALE (B) Anno di offerta 2023/20249 CFU54 oreCiclo Annuale Unico"}
+{'info': "[ECON017] ABILITA' INFORMATICHE E TELEMATICHE Anno di offerta 2024/20252 CFU12 oreCiclo Annuale Unico"}
+{'info': '[ECON019] ECONOMIA APPLICATA Anno di offerta 2024/20259 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON031] PROVA FINALE Anno di offerta 2024/20256 CFU0 ore'}
+{'info': '[ECON018] SCIENZA DELLE FINANZE Anno di offerta 2024/20259 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON071] SEMINARIO "LA GESTIONE DEL COLLOQUIO INDIVIDUALE E DI GRUPPO PER L\'INSERIMENTO NEL MONDO DEL LAVORO" Anno di offerta 2024/20252 CFU12 oreCiclo Annuale Unico'}
+{'info': '[ECON061] ISTITUZIONI DI DIRITTO PUBBLICO (A) Anno di offerta 2024/20259 CFU54 oreCiclo Annuale Unico'}
+{'info': '[ECON062] POLITICA ECONOMICA (C.) Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': "[ECON067] STRATEGIE D'AZIENDA E SPIN-OFF Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico"}
+{'info': "[ECON022] COMUNICAZIONE D'IMPRESA Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico"}
+{'info': '[ECON012] DIRITTO DEI CONTRATTI PUBBLICI Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON007] DIRITTO DEL LAVORO Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': "[ECON080] DIRITTO DELL'ECONOMIA D Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico"}
+{'info': '[ECON049] DIRITTO IMMOBILIARE Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON024] DIRITTO TRIBUTARIO Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': "[ECON065] ECONOMIA DEL CAPITALE UMANO D'IMPRESA Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico"}
+{'info': '[ECON050] ECONOMIA E TECNICA DELLA GESTIONE DEI COMPLESSI IMMOBILIARI Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON072] ECONOMIA REGIONALE DEI SISTEMI TERRITORIALI Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON077] FONDAMENTI DI RICERCA E SELEZIONE DELLE RISORSE UMANE Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': "[ECON052] GOVERNANCE DELL'UNIONE EUROPEA Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico"}
+{'info': '[ECON057] ORGANIZZAZIONE AZIENDALE (D) Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON078] REVISIONE AZIENDALE Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
+{'info': '[ECON079] STRUMENTI DI FINANZA AGEVOLATA Anno di offerta 2024/20256 CFU36 oreCiclo Annuale Unico'}
